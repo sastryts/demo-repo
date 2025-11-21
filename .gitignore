@@ -1,0 +1,17 @@
+# Compiled class files (Java)
+*.class
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C++ compiled files
+*.o
+*.out
+hello
+
+# Go compiled files
+*.exe
+*.test
+*.out
